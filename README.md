@@ -105,18 +105,18 @@ July 2017
 # Screenshots
 
 ### Node Basic Flow
-![](https://github.com/dexterlabora/node-red-contrib-meraki-cmx/blob/master/meraki-node-flow.png?raw=true "Meraki Scanning Node Flow")
+![](screenshots/meraki-node-flow.png?raw=true "Meraki Scanning Node Flow")
 
 ### Node Settings
-![](https://github.com/dexterlabora/node-red-contrib-meraki-cmx/blob/master/meraki-node-settings.png?raw=true "Meraki Node Settings")
+![](screenshots/meraki-node-settings.png?raw=true "Meraki Node Settings")
 
 
 ### Meraki Dashboard AP Map Placement
-![](https://github.com/dexterlabora/node-red-contrib-meraki-cmx/blob/master/meraki-dashboard-map.png?raw=true "Meraki Dashboard Map")
+![](screenshots/meraki-dashboard-map.png?raw=true "Meraki Dashboard Map")
 
 
 ### Meraki Location Data on Worldmap
-![](https://github.com/dexterlabora/node-red-contrib-meraki-cmx/blob/master/meraki-worldmap-large.png?raw=true "Meraki Worldmap")
+![](screenshots/meraki-worldmap-large.png?raw=true "Meraki Worldmap")
 
 
 ## Sample Flow
