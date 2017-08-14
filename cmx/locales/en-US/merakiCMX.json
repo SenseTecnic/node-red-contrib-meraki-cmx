@@ -1,0 +1,18 @@
+{
+  "merakiCMX": {
+    "errors":{
+      "missing-path": "You did not add the endpoint URL",
+      "invalid-request": "Meraki CMX receives invalid request from: ",
+      "invalid-api-version": "Meraki CMX Error: Invalid version. Expecting 2.0 but received ",
+      "invalid-secret": "Meraki CMX Error: Received invalid secret from: "
+    },
+    "server": {
+      "close-routes": "Meraki is closing routes: ",
+      "remove-urls": "Meraki is removing URL: ",
+      "receive-get-request": "Meraki node receives GET request from: ",
+      "receive-post-data": "Meraki node receives POST data from: ",
+      "secret-verified": "Meraki node verified incoming secret from: ",
+      "discard-non-matching-radio-type": "Meraki node discarding data from non-matching radio type"
+    }
+  }
+}
